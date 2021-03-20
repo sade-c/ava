@@ -1,0 +1,24 @@
+{
+  "name": "ava",
+  "version": "1.0.0",
+  "description": "ava",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sade-c/ava.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sade-c/ava/issues"
+  },
+  "homepage": "https://github.com/sade-c/ava#readme",
+  "dependencies": {
+    "avalanche": "^3.2.1",
+    "dotenv": "^8.2.0"
+  }
+}
